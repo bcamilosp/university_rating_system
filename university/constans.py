@@ -1,0 +1,2 @@
+APPROVED = 'Approved'
+REJECTED = 'Rejected'
